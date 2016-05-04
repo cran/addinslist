@@ -1,0 +1,12 @@
+148841f84c13d40339e22daa1c5b4c12 *DESCRIPTION
+f4daaca8bdcf86f116082ca547309cae *LICENSE
+02340b5fc69fc32e0a213d87ffbbfa1b *NAMESPACE
+d51e7c14cc34ba0d4c07e185a6167c66 *R/addin.R
+31637b99f0aa2ae9f6b5ca24a85eb2d9 *R/utils.R
+0501892b5ade20ab01d5b18d7e5157ee *README.md
+22a3880861f1a212a86a39053e9f0f2e *inst/gadgets/addinslist/css/app.css
+8d68165e27686766e9faae087a0dad07 *inst/gadgets/addinslist/js/shinyjs-funcs.js
+1fa6d76680097261aa39963cb8697074 *inst/gadgets/addinslist/lib/sweetalert-1.0.1/sweetalert.min.css
+3e1d6bd5bef3474e926af6c48c09f149 *inst/gadgets/addinslist/lib/sweetalert-1.0.1/sweetalert.min.js
+395dbb7fd78ec6e3f86ddf4f2db1727c *inst/rstudio/addins.dcf
+4f2356f61d57f5a6bd2ea439f8b07127 *man/addinslistAddin.Rd

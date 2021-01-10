@@ -1,10 +1,10 @@
-8153a6704e5f42262a5dcbf64f728c80 *DESCRIPTION
+0665f266cb2ef63911143c7f561fedaf *DESCRIPTION
 f4daaca8bdcf86f116082ca547309cae *LICENSE
 02340b5fc69fc32e0a213d87ffbbfa1b *NAMESPACE
-3a5540e70e45e4971af471079861a5df *NEWS.md
-46950d55871eb21f0cadde903a746939 *R/addin.R
-68da7915e7e49f5bb5af2a35380d7d31 *R/utils.R
-54a0841f35bc450bc8c80a21dac3b3e4 *README.md
+12e3a0bcd2644df022570af47955b0db *NEWS.md
+8227b80492f7219242da233c8607ae09 *R/addin.R
+c5dba6c647bc79f78f51a3118941a645 *R/utils.R
+1c963ec07757d6718bcda333e687b4a5 *README.md
 22a3880861f1a212a86a39053e9f0f2e *inst/gadgets/addinslist/css/app.css
 8d68165e27686766e9faae087a0dad07 *inst/gadgets/addinslist/js/shinyjs-funcs.js
 1fa6d76680097261aa39963cb8697074 *inst/gadgets/addinslist/lib/sweetalert-1.0.1/sweetalert.min.css

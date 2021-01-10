@@ -1,8 +1,10 @@
 Package: addinslist
 Title: Discover and Install Useful RStudio Addins
-Version: 0.3
-Authors@R: person("Dean", "Attali", email = "daattali@gmail.com",
-    role = c("aut", "cre"))
+Version: 0.4.0
+Authors@R: person("Dean", "Attali",
+    email = "daattali@gmail.com",
+    role = c("aut", "cre"),
+    comment= c(ORCID="0000-0002-5645-3493"))
 Description: Browse through a continuously updated list of existing RStudio 
     addins and install/uninstall their corresponding packages.
 URL: https://github.com/daattali/addinslist
@@ -13,10 +15,11 @@ Imports: curl, remotes, DT (>= 0.1), miniUI (>= 0.1), shiny (>=
         rvest (>= 0.3.1), utils, xml2 (>= 0.1.2)
 License: MIT + file LICENSE
 LazyData: true
-RoxygenNote: 6.1.1
+RoxygenNote: 7.1.1
+Encoding: UTF-8
 NeedsCompilation: no
-Packaged: 2019-08-30 05:13:28 UTC; Dean
-Author: Dean Attali [aut, cre]
+Packaged: 2021-01-10 18:01:13 UTC; Dean-X1C
+Author: Dean Attali [aut, cre] (<https://orcid.org/0000-0002-5645-3493>)
 Maintainer: Dean Attali <daattali@gmail.com>
 Repository: CRAN
-Date/Publication: 2019-08-30 06:00:02 UTC
+Date/Publication: 2021-01-10 18:50:11 UTC
